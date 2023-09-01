@@ -42,7 +42,7 @@ This code demonstrates how to build a content-based movie recommendation system.
 ### Installation
 
 1. Clone this repository:
-   git clone https://github.com/amarafs99/movie-recommendation.git
+   git clone https://github.com/amarafs99/Movie-Recomender-System.git
 
 
 ## Data Preprocessing
